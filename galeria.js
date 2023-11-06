@@ -1,5 +1,5 @@
 var textos=[
-    "Mis gafas en el escritorio",
+    "Lionel Messi VS Australia",
     "Camino a la perdición",
     "Paseando en bicicleta",
     "Vias de el tren"
